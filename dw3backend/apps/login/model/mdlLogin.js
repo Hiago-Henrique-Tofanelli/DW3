@@ -1,4 +1,4 @@
-const db = require("../../../database/databaseconfig");
+const db = require("../../../databases/databaseConfig");
 
 const GetCredencial = async (loginPar) => {
   return (
